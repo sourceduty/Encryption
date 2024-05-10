@@ -29,11 +29,11 @@ Modern encryption algorithms like AES and RSA are designed to withstand brute-fo
 However, advances in computing power, such as the development of quantum computers, pose a potential threat to traditional encryption methods. Quantum computers have the potential to significantly speed up certain calculations, including those involved in breaking encryption algorithms based on integer factorization or discrete logarithms, like RSA.
 
 #
-### Sourceduty
+### Sourceduty Security
 
 Sourceduty employs professional encryption techniques to safeguard sensitive data and protect confidentiality. Leveraging modern encryption algorithms such as AES and RSA, Sourceduty ensures that communication, data, and stored information remain secure against unauthorized access. By implementing robust encryption protocols with strong key management practices, SourceDuty maintains the integrity and confidentiality of data, providing clients with peace of mind and adhering to the highest standards of cybersecurity best practices.
 
-Sourceduty acknowledges the importance of cooperation with law enforcement agencies when necessary to facilitate criminal investigations and ensure public safety. In line with applicable laws and regulations, SourceDuty may engage in cooperative efforts with law enforcement to permit direct access to encrypted data under specific circumstances, such as with valid legal warrants or court orders. By adhering to established legal procedures and protocols, SourceDuty aims to balance the need for privacy and data security with the legitimate interests of law enforcement, contributing to the effective administration of justice while maintaining the trust and confidence of its clients and stakeholders.
+Sourceduty acknowledges the importance of cooperation with law enforcement agencies when necessary to facilitate criminal investigations and ensure public safety. In line with applicable laws and regulations, Sourceduty may engage in cooperative efforts with law enforcement to permit direct access to encrypted data under specific circumstances, such as with valid legal warrants or court orders. By adhering to established legal procedures and protocols, Sourceduty aims to balance the need for privacy and data security with the legitimate interests of law enforcement, contributing to the effective administration of justice while maintaining the trust and confidence of its clients and stakeholders.
 
 #
 ### Law Enforcement
