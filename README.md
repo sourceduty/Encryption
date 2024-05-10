@@ -3,7 +3,6 @@
 > Security techniques to safeguard sensitive data and protect confidentiality.
 
 #
-### Encryption
 
 Encryption is the process of converting plaintext into ciphertext, making it unreadable to anyone except those with the appropriate decryption key. Ciphers are algorithms used in encryption and decryption to transform data. They have played a crucial role throughout history, from ancient civilizations to modern cybersecurity protocols.
 
