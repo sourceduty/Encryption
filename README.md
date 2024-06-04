@@ -51,7 +51,7 @@ Users might believe their data is completely private and secure, unaware that th
 
 #
 
-> Alex: *"I'm capabable of developing a unique communication encryption format and it's components."*
+> Alex: *"I'm capable of developing a unique communication encryption format and it's components."*
 
 #
 ### Related Links
