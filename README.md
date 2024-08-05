@@ -50,10 +50,6 @@ For instance, Google may perform manual unauthorized data access within Google D
 Users might believe their data is completely private and secure, unaware that their files could be accessed internally for reasons outlined vaguely under terms of service. This situation highlights a complex balance between maintaining user privacy and ensuring the security of a platform, where the definitions and boundaries of "authorized" access can be both fluid and opaque.
 
 #
-
-> Alex: *"I'm capable of developing a unique communication encryption format and it's components."*
-
-#
 ### Related Links
 
 [Encryption Specialist](https://chatgpt.com/g/g-AClVroVDs-encryption-specialist)
