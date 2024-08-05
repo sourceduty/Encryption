@@ -57,6 +57,8 @@ Users might believe their data is completely private and secure, unaware that th
 ### Related Links
 
 [Encryption Specialist](https://chatgpt.com/g/g-AClVroVDs-encryption-specialist)
+<br>
+[Format Developer](https://github.com/sourceduty/Format_Developer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
