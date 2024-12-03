@@ -7,6 +7,17 @@
 Encryption is the process of converting plaintext into ciphertext, making it unreadable to anyone except those with the appropriate decryption key. Ciphers are algorithms used in encryption and decryption to transform data. They have played a crucial role throughout history, from ancient civilizations to modern cybersecurity protocols.
 
 #
+### AES Laws, Backdoors and Private Encryption
+
+![Private_Encryption](https://github.com/user-attachments/assets/aae86172-b117-4b00-a1a1-b94adf664aea)
+
+AES was developed by the National Institute of Standards and Technology (NIST), a U.S. government agency, which was adopted as the U.S. federal standard for symmetric block encryption in 2001. AES is one of the most widely used cryptographic algorithms today. Concerns about potential backdoors in encryption algorithms developed by NIST are valid but unproven. Both the FBI and CIA have the potential means to force entry and break certain versions of AES encryption under specific circumstances, which would successfully decrypt modern-day 192-bit or 256-bit AES data. 
+
+In many jurisdictions, refusing to comply with a lawful court order demanding access to encrypted data could result in criminal charges such as obstruction of justice, contempt of court, or violation of electronic surveillance laws. It's important to note that laws and regulations regarding encryption keys vary significantly across different countries, states, and jurisdictions. The specific consequences of refusing to disclose them will depend on the applicable legal framework in each case.
+
+Sourceduty can but hasn't developed it's own private encryption algorithm. Other companies might develop their own private encryption as well.
+
+#
 ### Encryption Techniques
 
 Classic encryption techniques date back centuries and include methods like the Caesar cipher, which involves shifting each letter of the alphabet a fixed number of places. Another classic cipher is the Vigenère cipher, which uses a keyword to determine the shifting pattern for each letter.
